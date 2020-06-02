@@ -1,20 +1,27 @@
 Guides
 ======
 
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
+
 Guides for getting things done, programming well, and programming in style.
 
 * [Best Practices](./best-practices)
 * [Code Review](./code-review)
+* [Tech Stack](./stack)
 * [How to](./how-to)
 * [Protocol](./protocol)
   * [Communication](./protocol/communication)
+  * [Accessibility](./protocol/accessibility)
   * [Git](./protocol/git)
   * [iOS](./protocol/ios)
   * [Open Source](./protocol/open-source)
   * [Product Review](./protocol/product-review)
   * [Rails](./protocol/rails)
+  * [React](./protocol/react)
 * [Security](./security)
 * [Style](./style)
+* [Web Performance](./web-performance)
+* [Working Together](./working-together)
 
 High level guidelines:
 
@@ -45,14 +52,14 @@ Credits
 
 Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
 
-![thoughtbot](http://thoughtbot.com/images/tm/logo.png)
+![thoughtbot](http://presskit.thoughtbot.com/images/thoughtbot-logo-for-readmes.svg)
 
-Guides is maintained by [thoughtbot, inc](http://thoughtbot.com/community).
+Guides is maintained by [thoughtbot, inc](https://thoughtbot.com).
 
 License
 -------
 
-Guides is © 2014 thoughtbot, inc. It is distributed under the [Creative Commons
+Guides is © 2020 thoughtbot, inc. It is distributed under the [Creative Commons
 Attribution License](http://creativecommons.org/licenses/by/3.0/).
 
 The names and logos for thoughtbot are trademarks of thoughtbot, inc.
